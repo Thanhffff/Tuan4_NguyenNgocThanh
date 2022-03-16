@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-
+//test update
 namespace Tuan4_NguyenNgocThanh.Controllers
 {
     public class GioHangController : Controller
